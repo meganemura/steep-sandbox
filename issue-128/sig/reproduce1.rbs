@@ -1,0 +1,3 @@
+class Example
+  def test: (in: untyped `in`) -> untyped
+end

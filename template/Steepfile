@@ -1,0 +1,6 @@
+target :issue do
+  signature "sig"
+  check "reproduce*.rb"
+
+  # typing_options :strict
+end

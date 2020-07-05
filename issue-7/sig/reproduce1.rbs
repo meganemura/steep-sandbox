@@ -1,0 +1,3 @@
+class Hi
+  def method_missing: (*untyped) -> untyped
+end
